@@ -1,7 +1,8 @@
 Je m'appelle Ikrame Rata.
 
  *Voici une photo de moi*
- ![photo de moi]!(ikrame.png)
+ 
+ ![photo de moi](ikrame.png)
  
 
 *Mes intérêts en Multimédia*

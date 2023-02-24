@@ -22,7 +22,7 @@ Le Vendredi le 3 février 2023 (10h00)
 <br>
 ***Titre de l'oeuvre :***
 <b> 2 5 2 6 </b> 
-<img src="https://github.com/ikramert/h23_v13_inspirations_rataikrame/medias/robe_mouvement.jpg" alt="robe">
+![Robe1](./medias/robe_mouvement.jpg)
 <br>
 <br>
 <br>
@@ -48,12 +48,12 @@ Installation comtemplative, nous ne pouvons pas toucher.
 <br>
 ***Mise en espace : ***
 L'oeuvre est située dans un carré qui est délimité par du scotch. C'est environ un espace de 1,5 mètre carré. L'oeuvre n'a pas grand-chose autour d'elle, il y a un seul fil d'alimentation qui tombe de l'intérieur de la robe qui est sécurise et qui se dirige vers me mur.
-<img src="https://github.com/ikramert/h23_v13_inspirations_rataikrame/medias/robe_valves_mouvement.jpg" alt="robe2">
+![Robe2](./medias/robe_valves_mouvement.jpg)
 <br>
 <br>
 <br>
 ***Plan de l'espace: ***
-<img src="https://github.com/ikramert/h23_v13_inspirations_rataikrame/medias/plan.png" alt="plan">
+![Plan](./medias/plan.png)
 <br>
 <br>
 <br>

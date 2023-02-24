@@ -1,5 +1,8 @@
 ***Nom de l'exposition :***
 ELEKTRA : 6e BIENNALE INTERNATIONALE D'ART NUMÉRIQUE (BIAN)
+<br>
+<br>
+<br>
 ![Expostion](./medias/exposition.jpg)
 (Cette photo a été prise sur le site Arsenalcontemporary.com)
 <br>

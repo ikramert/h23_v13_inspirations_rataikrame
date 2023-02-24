@@ -55,7 +55,7 @@ L'oeuvre est située dans un carré qui est délimité par du scotch. C'est envi
 ![Robe2](./medias/robe_valves_mouvement.jpg)
 <br>
 <br>
-***Plan de l'espace: ***
+***Plan de l'espace:***
 <br>
 ![Plan](./medias/plan.png)
 <br>

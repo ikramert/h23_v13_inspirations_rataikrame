@@ -5,7 +5,7 @@
 <br>
 <br>
 <br>
-***Lieu de mise en exposition ***
+***Lieu de l'exposition:*** : 
 Arsenal art contemporain (Montréal)
 <br>
 <br>

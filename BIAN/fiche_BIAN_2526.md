@@ -46,7 +46,7 @@ Installation comtemplative, nous ne pouvons pas toucher.
 <br>
 <br>
 <br>
-***Mise en espace : ***
+***Mise en espace :***
 L'oeuvre est située dans un carré qui est délimité par du scotch. C'est environ un espace de 1,5 mètre carré. L'oeuvre n'a pas grand-chose autour d'elle, il y a un seul fil d'alimentation qui tombe de l'intérieur de la robe qui est sécurise et qui se dirige vers me mur.
 ![Robe2](./medias/robe_valves_mouvement.jpg)
 <br>

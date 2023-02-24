@@ -6,4 +6,4 @@ Les sous dossiers sont :
  - Medias (il contient tous les images pour l'oeuvre)
 fichiers :
 
-- Fiche_BIAN_Retina
+- Fiche_BIAN_2526

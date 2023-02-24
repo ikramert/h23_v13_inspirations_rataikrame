@@ -1,7 +1,8 @@
-<b> Nom de l'exposition : </b>
+***Nom de l'exposition :***
+
 #ELEKTRA : 6e BIENNALE INTERNATIONALE D'ART NUMÉRIQUE (BIAN)
 
-![Expostion](exposition.png)
+![Expostion](medias/exposition.png)
 
 Cette photo a été prise sur le site Arsenalcontemporary.com
 

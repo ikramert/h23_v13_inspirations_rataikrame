@@ -25,7 +25,7 @@ N/A
 Type d'installation
 Oeuvre audiovisuelle contemplative
 
-###Description de l'oeuvre###
+### Description de l'oeuvre ###
 Cette œuvre audiovisuelle captivante donne la parole aux femmes chrétiennes d'époques révolues. Leurs récits empreints de force et de foi révèlent leur rôle essentiel dans la diffusion de la doctrine chrétienne, malgré les défis et les contraintes sociales, offrant ainsi une perspective inspirante sur l'histoire méconnue de ces femmes.
 
 PHOTO

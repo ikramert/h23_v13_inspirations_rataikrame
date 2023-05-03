@@ -30,5 +30,5 @@ Cette œuvre audiovisuelle captivante donne la parole aux femmes chrétiennes d'
 
 PHOTO
 
-###Mise en espace###
+### Mise en espace ###
 Cette oeuvre est placé sur une toile dans une pièce avec plusieurs autres oeuvre, je dirais quelle prend 2 mètres de large et de hauteur. Il y a un banc en bois juste devant pour comtempler loeuvre. L'oeuvre est projete par un projecteur qui est situé tout juste devant. La salle est relativement petite.  

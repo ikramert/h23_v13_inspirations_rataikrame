@@ -10,3 +10,7 @@
 
 <b> 06 <b> : Conference Studio Antimodular
 
+<b> 07 <b> : Sortie centre des sciences
+
+<b> 08 <b> : Sortie centre historique Marguerite-Bourgeoys
+

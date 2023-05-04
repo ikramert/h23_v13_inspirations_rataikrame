@@ -24,6 +24,10 @@ ________________________________________________________________________________
 - Objets interactif
 - Conception multimedia 
 
+### Technologie nouvelle 
+_______________________________________________________________________________________________________________________________________________________________________
+- Logiciel MAX
+
 ### Éxpérience
 _______________________________________________________________________________________________________________________________________________________________________
 Malgré le fait que je n'aie pas été particulièrement enthousiasmé par ce projet, je ne peux nier qu'il avait des aspects agréables. L'idée d'utiliser l'utilisation de 

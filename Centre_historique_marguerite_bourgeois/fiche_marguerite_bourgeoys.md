@@ -3,7 +3,7 @@
  
 ## Nom de l'exposition: Osez Meet Marguerite Chapelle Notre-Dame-de-Bon-Secours ##
 
-![Expostion](./medias/photo_cave.jpg)
+![Expostion](/medias/photo_cave.jpg)
 
 Type d'exposition
 Permanente et intérieure
@@ -34,12 +34,17 @@ PHOTO
 _____________________________________________________________________________________________________________________________________________________________
 Cette oeuvre est projetté sur un mur dans une pièce avec plusieurs oeuvres évoquant différentes périodes du christianisme., je dirais quelle prend 2 mètres de large et de hauteur. Il y a un banc en bois juste devant pour contempler loeuvre. L'oeuvre est projetté par un projecteur qui est situé tout juste devant. La salle est relativement petite. À gauche de la salle, une sortie discrète dévoile un escalier invitant les visiteurs à explorer davantage. Les fils passent par le plafond donc il n'y a aucun fil visible.
 
+![projection](medias/projection.heic)
+
 
 ### Composantes ###
 _____________________________________________________________________________________________________________________________________________________________
 Au cœur de la salle, un unique projecteur illumine l'écran de ses rayons. Le son vient du dispositif de projection lui-même. Les videos et les voix créent une expérience immersive, faisant revivre les témoignages d'un passé lointain et permettant aux spectateurs de se plonger pleinement dans cette précieuse archive historique.
 
-PHOTO
+![projecteur1](medias/projecteur_01.heic)
+![projecteur2](medias/projecteur_02.heic)
+
+
 
 ### Nécessités ###
 _____________________________________________________________________________________________________________________________________________________________
@@ -62,13 +67,13 @@ ________________________________________________________________________________
 _____________________________________________________________________________________________________________________________________________________________
 L'expérience s'est malheureusement révélée fade et sans éléments véritablement attrayants pour retenir mon attention. Les femmes, tout en partageant leurs témoignages, semblaient constamment critiquer notre génération, basant leurs jugements uniquement sur leurs propres sentiments. Cette approche subjective a créé un sentiment de déconnexion et d'incompréhension, rendant l'expérience décevante et peu enrichissante. Aucun élément visuel n'a pu retenir mon intérêt, rendant l'expérience rapidement oubliable.
 
-PHOTO
+![vieuxport](medias/vieux_port.heic)
 
 ### Ce qui m'a plu ###
 _____________________________________________________________________________________________________________________________________________________________
 J'ai été enchanté par plusieurs autres œuvres qui ont su captiver mon attention et éveiller mon intérêt. De plus, l'endroit lui-même était tout simplement époustouflant. L'atmosphère du Vieux-Montréal est tout simplement magnifique avec son charme historique. J'ai eu l'occasion aussi de monter les 120 marches qui menent au plus haut point du Vieux-Montréal.  
 
-PHOTO
+
 
 ### Améliorations 
 _____________________________________________________________________________________________________________________________________________________________

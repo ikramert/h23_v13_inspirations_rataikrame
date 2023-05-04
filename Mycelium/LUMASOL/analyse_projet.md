@@ -16,7 +16,13 @@ ________________________________________________________________________________
 Lorsqu'on a visité les élèves, ils n'étaient pas proche de la phase finale. Ils fesaient encore des test et attendait leur nouveau velo pour compléter le tout. Ils avaient
 tous l'aspect technique et les fils nécéssaire mais le projet n'était pas en phase finale.
 
-!!!!!!!!PHOTO
+![mechanisme](medias/mechanisme.jpg)
+![velointerieur](medias/velo_interieur.jpg)
+![veloenvironnement](medias/velo_environnement.jpg)
+![luma02](medias/lumasol_02.jpg)
+![veloexterieur](medias/velo_exterieur.jpg)
+
+
 
 ### Les incontournables 
 _______________________________________________________________________________________________________________________________________________________________________

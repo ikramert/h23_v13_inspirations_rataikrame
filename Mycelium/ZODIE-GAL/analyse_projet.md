@@ -17,7 +17,7 @@ ________________________________________________________________________________
 L'entrée nous a été refusé donc je n'ai pas pu voir les avancements, mais avec les informations que j'ai eu , celle-ci compte compléter les 11 niveaux et donner la 
 possibilité au utilisateur. 
 
-!!!! PHOTO
+![zodiegal](medias/zodiegal.png)
 
 Les incontournables
 ________________________________________________________________________________________________________________________________________________________________________

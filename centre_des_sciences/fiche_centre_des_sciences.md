@@ -44,7 +44,9 @@ Dispositif multimédia d'apprentissage
 __________________________________________________________________________________________________________________________________________________________________
 C'est un dispositif multimédia capable de scanner le squelette humain et de le fusionner avec l'anatomie d'oiseaux. Cette expérience immersive met n évidence les similitudes et les différences entre nos corps, soulignant notre lien avec le règne animal et nous invitant à réfléchir à notre place dans l'écosystème qui nous entoure.
 
-PHOTO!!!!!!!
+
+![espace1](medias/metamorphose_01.jpg)
+![espace2](medias/metamorphose_02.jpg)
 
 ### Espace ###
 _____________________________________________________________________________________________________________________________________________________________________
@@ -52,7 +54,8 @@ Ce dispositif multimédia occupe un espace considérable d'environ 3 mètres car
 
 PHOTO!!!!!!!
 
-### Composantes techniques ###
+![tech1](medias/metamorphose_project_02.jpg)
+![tech2](medias/metamorphose_projecteur_02.jpg)
 __________________________________________________________________________________________________________________________________________________________________
  
 - Un scanner 3D précis et capable de capturer les détails du squelette humain pour numériser les os dans leur intégralité avec une grande résolution.
@@ -62,7 +65,7 @@ ________________________________________________________________________________
 - Un écran de projection de qualité pour afficher l'image fusionnée.
 - Un collant sur le sol pour positionner l'utilisateur. 
 
-PHOTO!!!!!
+![tech3](medias/metamorphose_projecteur_02.jpg)
 
 ### Expérience vécue ###
 _____________________________________________________________________________________________________________________________________________________________________

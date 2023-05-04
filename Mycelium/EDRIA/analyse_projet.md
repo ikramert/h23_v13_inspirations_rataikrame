@@ -24,6 +24,9 @@ ________________________________________________________________________________
 _______________________________________________________________________________________________________________________________________________________________________
 Il y aura huit colonnes au total, afin de couvrir une plus grande surface et maintenir l'ambiance souhaitée. Les capteurs de mouvement sont de haute qualité. Des plantes synthétiques seront ajoutées aux colonnes pour partiellement cacher la technologie, les fils etc. Le projet était déjà en phase finale. 
 
+PHOTO!!!!
+
+
 ### Expérience:
 _______________________________________________________________________________________________________________________________________________________________________
 Lorsque l'utilisateur s'approche, l'un des détecteurs s'active, déclenchant un motif de lumière et de musique spécifique. Si plusieurs visiteurs activent les quatre capteurs en même temps, une animation spéciale d'une minute se déclenche sur toutes les colonnes pour leur plus grand plaisir. Après cela, les visiteurs peuvent partir ou essayer différentes combinaisons pour prolonger leur expérience.

@@ -10,9 +10,23 @@ ________________________________________________________________________________
 En résumé, le mycélium symbolise la connexion par ses racines souterraines. Le projet Echomarine met l'accent sur l'importance des fonds marins et la beauté de leurs habitants. 
 En sensibilisant les visiteurs, l'attraction vise à favoriser une relation avec la nature et les inciter à agir pour sa préservation. Cette approche est directement liée au thème central du projet.
 
-### Installation: ###
+### Installation en cours: ###
 _________________________________________________________________________________________________________________________________________________
 L'equipe était relativement tres bien avancé, il leur manquait une table et quelques animations mais sinon c'est tout!
+
+PHOTO !!!!!!!
+
+### Incontournables ###
+_________________________________________________________________________________________________________________________________________________
+
+- Conception multimedia 
+- Traitement audiovisuel 
+- Animation 2d
+
+### Technologies nouvelles
+_________________________________________________________________________________________________________________________________________________
+- Arduino
+
 
 ### Expérience: ###
 _________________________________________________________________________________________________________________________________________________
@@ -21,3 +35,6 @@ La musique joue et la projection devait devenir plus saturée, mais je ne l'ai p
 Sur le podium, une tablette permet de choisir un animal marin et d'afficher une animation correspondante.
 La description de l'animal apparaît également. Une fois l'animation terminée, le visiteur peut choisir un autre animal ou sortir de l'expérience. 
 Les vagues s'arrêtent et la projection revient à son état initial.
+
+
+C'etait une experience qui enveloppait l'espace dans une ambiance océanique. Les projections marines sur les trois rideaux créaient une atmosphère saisissante, me transportant dans les profondeurs mystérieuses de l'océan. C'etait un beau le spectacle visuel.Je dirais que j'ai grandement apprecie l'experience. 

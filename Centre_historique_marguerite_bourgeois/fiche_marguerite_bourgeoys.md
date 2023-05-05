@@ -35,6 +35,7 @@ ________________________________________________________________________________
 Cette oeuvre est projetté sur un mur dans une pièce avec plusieurs oeuvres évoquant différentes périodes du christianisme., je dirais quelle prend 2 mètres de large et de hauteur. Il y a un banc en bois juste devant pour contempler loeuvre. L'oeuvre est projetté par un projecteur qui est situé tout juste devant. La salle est relativement petite. À gauche de la salle, une sortie discrète dévoile un escalier invitant les visiteurs à explorer davantage. Les fils passent par le plafond donc il n'y a aucun fil visible.
 
 ![projection](medias/projection.jpg)
+![plansalle](medias/plan_salle.png)
 
 
 ### Composantes ###

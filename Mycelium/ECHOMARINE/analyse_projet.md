@@ -14,7 +14,9 @@ En sensibilisant les visiteurs, l'attraction vise à favoriser une relation avec
 _________________________________________________________________________________________________________________________________________________
 L'equipe était relativement tres bien avancé, il leur manquait une table et quelques animations mais sinon c'est tout!
 
-PHOTO !!!!!!!
+![echo1](medias/echo1.jpg)
+![echo2](medias/echo2.jpg)
+
 
 ### Incontournables ###
 _________________________________________________________________________________________________________________________________________________

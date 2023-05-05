@@ -24,7 +24,12 @@ ________________________________________________________________________________
 _______________________________________________________________________________________________________________________________________________________________________
 Il y aura huit colonnes au total, afin de couvrir une plus grande surface et maintenir l'ambiance souhaitée. Les capteurs de mouvement sont de haute qualité. Des plantes synthétiques seront ajoutées aux colonnes pour partiellement cacher la technologie, les fils etc. Le projet était déjà en phase finale. 
 
-PHOTO!!!!
+![structure](medias/structure.jpg)
+![capteurs](medias/capteurs.jpg)
+![edria2](medias/edria_02.jpg)
+![plantes](medias/plantes.jpg)
+![speakers](medias/speakers.jpg)
+![lumiere](medias/lumieres.jpg)
 
 
 ### Expérience:

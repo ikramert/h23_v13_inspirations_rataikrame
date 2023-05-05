@@ -1,14 +1,15 @@
 
 Introduction
-Quel est l'objectif de votre communication?
+___________________________________________
+Présenter les lieux et les pieces. 
 
-
-Présenter un détail et analyser les deux oeuvres que j'ai choisi retrouvées durant l'exposition de Montréal au coeur des échanges.
-
-Décrire mon expérience et donner mon analyse plus critique des deux oeuvres.
 Développement
+___________________________________________
+Décrire mon expérience et les expériences
+
 
 Titre:
+___________________________________________
 Osez Marguerite
 
 Nom de l'artiste: 

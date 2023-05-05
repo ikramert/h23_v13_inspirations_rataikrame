@@ -111,6 +111,6 @@ ________________________________________________________________________________
 Je ne changerai rien, car chaque élément de cette expérience artistique m'a apporté une satisfaction profonde.
 
 
-Github: https://github.com/F-C-A/EDRIA
-PRÉ-PROD: https://tim-montmorency.com/2023/projets/EDRIA/docs/web/preproduction.html
-TIM-MOMO: https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html
+- Github: https://github.com/F-C-A/EDRIA
+- PRÉ-PROD: https://tim-montmorency.com/2023/projets/EDRIA/docs/web/preproduction.html
+- TIM-MOMO: https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html

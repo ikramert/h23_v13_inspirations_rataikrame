@@ -3,7 +3,7 @@
  
 ## Nom de l'exposition: Osez Meet Marguerite Chapelle Notre-Dame-de-Bon-Secours ##
 
-![Expostion](/medias/photo_cave02.jpg)
+![Expo](medias/photo_cave.jpg)
 
 Type d'exposition
 Permanente et intérieure

@@ -18,7 +18,12 @@ uniquement de la lumière donc c'est dur de fonder une idée claire et concise.
 L'installation prévue consiste à placer huit courts potos avec des fils de lumière le long du chemin devant le collège. Ces pôles seront à chaque côté du visiteur pour une immersion. De plus, huit haut-parleurs seront placés sur les potos pour une musique immersive. Dans la version finale de l'installation, des boules lumineuses seront également installées sur les poteaux. Enfin, des codes QR seront imprimés et placés le long du sentier.
 
 
-PHOTO!!!!!!!!!!!!!
+![chemin](medias/chemin_boule.jpg)
+![codeqr](medias/code_qr.jpg)
+![filsneige](medias/fils_neige.jpg)
+![mapping](medias/mapping.jpg)
+![prepod](medias/prepod.jpg)
+![production](medias/production.jpg)
 
 
 Les incontournables
